@@ -1,82 +1,66 @@
-# 🧱 Day 1 — Professional Semantic HTML Structure
+# 🚀 Engineering Foundations — Full Stack & Web3 Path
 
-This project is part of my structured roadmap to become a professional Frontend Developer.
-The focus of this day was to build a clean, semantic, and accessible HTML foundation using modern best practices.
+This repository documents my structured progression toward becoming a Full Stack Engineer with Web3 specialization.
+
+The focus is on building strong engineering fundamentals across:
+
+* Frontend architecture
+* Backend principles
+* Database modeling
+* Blockchain fundamentals
+* Smart contract concepts
+* Scalable system thinking
+  
+---
+
+## 🎯 Philosophy
+
+Rather than isolated tutorials, this repository follows a modular and documented approach.
+
+Each section represents:
+
+* Core concepts
+* Clean implementations
+* Architectural reasoning
+* Iterative refinement
+
+The objective is long-term engineering maturity.
+---
+
+## 🧠 Engineering Principles Practiced
+
+* Semantic correctness
+* Accessibility awareness
+* Separation of concerns
+* Modular architecture
+* Documentation discipline
+* System-level thinking
 
 ---
 
-## 🎯 Project Goal
-
-To create a professionally structured HTML layout applying:
-
-* Proper use of `header`, `nav`, `main`, `section`, `article`, `aside`, and `footer`
-* Correct heading hierarchy (`h1–h3`)
-* Basic accessibility practices `aria-labelledby`
-* Semantic elements like `<time>`
-* Clear separation between semantics and layout (`div` only when necessary)
-
-This project intentionally focuses on **structure over styling**.
-
----
-
-## 🛠️ Technologies Used
-
-* HTML5
-* Git
-* GitHub
-
----
-
-## 🧠 Concepts Practiced
-
-* Difference between `section` and `div`
-* When to use `article`
-* Uso correcto de `aside`
-* Single `<main>` rule
-* Modern heading hierarchy
-* Accessibility fundamentals
-
----
-
-## 🧱 Project Structure
+## 📂 Repository Structure
 
 ```
-📁 html-foundations
- ┣ 📄 index.html
- ┗ 📄 README.md
+01-frontend-foundations
+02-backend-foundations
+03-databases
+04-web3-foundations
+05-mini-projects
+docs
 ```
 
 ---
 
-## 🔮 Next Steps (Day 2)
+## 📈 Long-Term Goal
 
-* Professional layout structuring
-* Responsive foundation
-* BEM naming methodology
-* Improved accessibility practices
+To integrate frontend, backend, and blockchain technologies into cohesive, scalable, and production-ready systems.
 
 ---
 
-## 📈 Roadmap Progress
+ ## 👩‍💻 Author
 
-This repository is part of a structured learning plan:
+Angela Jasso 
 
-* ✅ Day 1 — Semantic HTML structure
-* ⏳ Day 2 — Professional layout
-* ⏳ Day 3 — Advanced CSS
-* ⏳ Day 4 — Responsive design
-* ⏳ Day 5 — Integrated project
+Full Stack & Web3 Engineering Path
 
 ---
-
-## 👩‍💻 Author
-
-Angela Jasso
-Web & Blockchain Developer in structured professional training.
-
-GitHub: @angelajasso
-
----
-
-> “Structure is invisible, but it supports everything.”
-
